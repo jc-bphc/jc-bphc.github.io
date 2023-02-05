@@ -2,8 +2,8 @@
 layout: post
 title: "An Interview with CRC"
 author: "Uncredited"
-categories: documentation
-tags: [documentation,sample]
+categories: uncategorized
+tags: [crc]
 image: crc.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Sportswashing in Football"
 author: "Uncredited"
-categories: documentation
-tags: [documentation,sample]
+categories: sports
+tags: [football]
 image: sportswashing.png
 ---
 
