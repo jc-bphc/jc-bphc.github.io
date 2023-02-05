@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Interview with CRC"
+title: "An Interview with the Technical Secretary"
 author: "Uncredited"
 categories: uncategorized
 tags: [tech]
